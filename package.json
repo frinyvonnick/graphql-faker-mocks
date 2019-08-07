@@ -1,0 +1,21 @@
+{
+  "name": "graphql-faker-mocks",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "FRIN Yvonnick <frin.yvonnick@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "mock": "cross-env-shell NODE_ENV=mock yarn start"
+  },
+  "dependencies": {
+    "apollo-server-koa": "^2.8.1",
+    "cross-env": "^5.2.0",
+    "faker": "^4.1.0",
+    "graphql": "^14.4.2",
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
