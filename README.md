@@ -275,4 +275,4 @@ const mockResolvers = {
 };
 ```
 
-I made a [repository](https://github.com/frinyvonnick/handling-peer-dependencies) with all the sources presented in this article. Feedback is appreciated 🙏 Please tweet me if you have any questions [@YvonnickFrin](https://twitter.com/YvonnickFrin)!
+I made a [repository](https://github.com/frinyvonnick/graphql-faker-mocks) with all the sources presented in this article. Feedback is appreciated 🙏 Please tweet me if you have any questions [@YvonnickFrin](https://twitter.com/YvonnickFrin)!
