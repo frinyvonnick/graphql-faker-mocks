@@ -125,7 +125,7 @@ server.applyMiddleware({app});
 
 If you start your server right now with the command `yarn start` and open the url `http://localhost:4000/graphql` in your browser. You should see the nice interface of [GraphQL IDE](https://github.com/prisma/graphql-playground).
 
-![immutadot logo](https://raw.githubusercontent.com/frinyvonnick/graphql-faker-mocks/master/assets/GraphQLIDE.png)
+![GraphQL IDE](https://raw.githubusercontent.com/frinyvonnick/graphql-faker-mocks/master/assets/GraphQLIDE.png)
 
 If you type a query to retrieve the list of persons with their data:
 
