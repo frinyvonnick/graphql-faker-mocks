@@ -9,7 +9,7 @@
     "mock": "cross-env-shell NODE_ENV=mock yarn start"
   },
   "dependencies": {
-    "apollo-server-koa": "^2.8.1",
+    "apollo-server-koa": "^2.14.2",
     "cross-env": "^5.2.0",
     "faker": "^4.1.0",
     "graphql": "^14.4.2",
